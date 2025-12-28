@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ktsuchimoto524-collab.github.io/image-to-gif-tool/sitemap.xml
